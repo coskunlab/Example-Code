@@ -24,16 +24,15 @@ Comparison of AUC scores between the spPPI-GNN model, ML, MIL, and MLP model for
 
 ## Data
 "data" folder contains all the necessary data to reproduce the results in the paper:
--
+- Example
 
 ## Notebooks 
 "notebooks" folder contains jupyter notebook script used:
-- 
+- Example
 
 ## Source code
 "src" folder contains customs scripts used:
-- "my_io.py" is the custom python scripts used for reading images and their info
-- "pipeline_analyis_cellseg.cpproj" is used for cell profiler for single cell segmentation 
+- Example
 
 ## Figures 
 "figures" folder contains generated figures for the paper
