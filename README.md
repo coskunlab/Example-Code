@@ -19,3 +19,24 @@ Normalized co-expression of five PPIs with the mean intensity of six protein mar
 Comparison of AUC scores between the spPPI-GNN model, ML, MIL, and MLP model for prediction of single-cell treatment status in the 5PPI dataset.
 
 ![Alt text](figures/e.jpg)
+
+# Organization
+
+## Data
+"data" folder contains all the necessary data to reproduce the results in the paper:
+-
+
+## Notebooks 
+"notebooks" folder contains jupyter notebook script used:
+- 
+
+## Source code
+"src" folder contains customs scripts used:
+- "my_io.py" is the custom python scripts used for reading images and their info
+- "pipeline_analyis_cellseg.cpproj" is used for cell profiler for single cell segmentation 
+
+## Figures 
+"figures" folder contains generated figures for the paper
+
+## Citation
+**Please Cite:**  Citation
